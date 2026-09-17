@@ -10,6 +10,7 @@ It will be updated in the future.I prefer technical popularization and analysis.
   - V1.1.0.pdf
   - V1.2.0.pdf
   - V1.3.0.pdf
+  - Microarchitecture Analysis0.01.pdf
 - microarch
   - AMD
     - Zen4.svg
